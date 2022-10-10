@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+.myName{
+    text-align: center;
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.computerScreen{
+    position: absolute;
+    left: 575px;
+}
+
+.startButton{
+    position: absolute;
+    color: gold;
+    top: 850px;
+    left: 925px;
+    font-family: 'Courier New', Courier, monospace;
+}

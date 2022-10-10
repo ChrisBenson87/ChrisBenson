@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.navBar{
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    color: yellow;
+}
+
+.navButton{
+    color: yellow;
+    size-adjust: 50%;
+}
+
+.aboutMeText{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
